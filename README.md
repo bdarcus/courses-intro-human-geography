@@ -17,6 +17,8 @@ More concretely, the text will include:
 * contemporary examples that are constantly updated
 * dynamic data and visualizations where appropriate and practical
 
+See project wiki for more information.
+
 # License
 
 All content here is licensed under the CC-BY-SA license.
