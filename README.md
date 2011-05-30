@@ -29,7 +29,7 @@ This project is focused on clean content, and open standards. It will *not* invo
 
 Instead:
 
-* text will be written in a simple markdown format
+* text will be written in a simple markdown format (pandoc will be used to convert this to different output formats)
 * primary output target is HTML5
 * where dynamic functionality is needed, it will be done using Javascript
 * where vector graphics are needed, it will be done using SVG or Canvas (in that order of preference)
