@@ -19,6 +19,22 @@ More concretely, the text will include:
 
 See project wiki for more information.
 
+# Technology and Standards
+
+This project is focused on clean content, and open standards. It will *not* involve:
+
+* any "Educational Standards", which I find outdated and too complicated (no SCORM, for example)
+* Flash (buggy, proprietary, doesn't work on all platforms)
+* support for old browsers (Chrome 10+, Firefox 3+, Safari, IE 9+ only)
+
+Instead:
+
+* text will be written in a simple markdown format
+* primary output target is HTML5
+* where dynamic functionality is needed, it will be done using Javascript
+* where vector graphics are needed, it will be done using SVG or Canvas (in that order of preference)
+
+
 # Contributing
 
 This project is pretty much designed to make my life easier. As such, it relies on the 
