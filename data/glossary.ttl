@@ -1,0 +1,9 @@
+# This glossary is maintained as a SKOS file, encoded as turtle.
+
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geo: <http://bruce.darcus.name/courses/geo101/concepts#> .
+
+geo:migration a skos:Concept ;
+    skos:prefLabel "migration"@en ;
+    skos:definition "Movement of residence from one place to another."@en .
+
