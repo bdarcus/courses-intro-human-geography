@@ -12,6 +12,16 @@ on recent news.
   "migration": {
     "term": "migration",
     "definition": "Movement of residence from one place to another."
-    "see": ["push-factors", "pull-factors"]
+    "narrower": ["push-factors", "pull-factors"]
+  },
+  "push-factors": {
+    "term": "push factors",
+    "definition": "In migration, negative characteristics of a place that prompts people to consider migrating elsewhere."
+    "broader": ["migration"]
+  },
+  "pull-factors": {
+    "term": "pull factors",
+    "definition": "In migration, positive characteristics of a place that prompts people to consider migrating there."
+    "broader": ["migration"]
   }
 }
