@@ -2,26 +2,27 @@
 The glossary is maintained as a simple json file, with:
   - term (plain text)
   - definition (markdown)
-  - "see" cross-references (optional)
+  - broader and narrow cross-references (optional)
 The key value will be used for the html anchor id, sorting, 
 cross-referencing, and also potentially to match against tags 
-on recent news.
+on recent news. It will also be used for conversion to SKOS
+RDF.
 */
 
 {
   "migration": {
     "term": "migration",
-    "definition": "Movement of residence from one place to another."
+    "definition": "Movement of residence from one place to another.",
     "narrower": ["push-factors", "pull-factors"]
   },
   "push-factors": {
     "term": "push factors",
-    "definition": "In migration, negative characteristics of a place that prompts people to consider migrating elsewhere."
+    "definition": "In migration, negative characteristics of a place that prompts people to consider migrating elsewhere.",
     "broader": ["migration"]
   },
   "pull-factors": {
     "term": "pull factors",
-    "definition": "In migration, positive characteristics of a place that prompts people to consider migrating there."
+    "definition": "In migration, positive characteristics of a place that prompts people to consider migrating there.",
     "broader": ["migration"]
   }
 }
