@@ -152,11 +152,59 @@ px      68    160    252    344    436    */
 
 /* bd additions */
 
-dl { margin: 1em; }
-dt { font-weight: bold; margin-top: 1em; }
-dd { margin: 1em; }
+/*
+ * These rules will display DTs/DDs as columns.
+ * Constructs must follow a key/value pair pattern.
+ * The three last declarations are meant to kill white space between DTs/DDs 
+ * (result of inline-block styling)
+ */
+dl {
+  width:80%;
+  margin:20px auto;
+  border-bottom:1px solid #999;
+  letter-spacing:-0.31em;
+  *letter-spacing:normal;
+  word-spacing:-0.43em;
+} 
+/* 
+ * In this rule, we reset the white-space (see hack above)
+ * The width + left/right padding of DTs/DDs equals 50% (for two equal columns)
+ */
+dt {
+  display:inline-block;
+  *display:inline;
+  zoom:1;
+  letter-spacing:normal;
+  word-spacing:normal;
+  vertical-align:top;
+  width:26%;
+  padding:3px 2% 4px;
+  margin:0;
+  border-top:1px solid #999;
+}
 
-dd ul { margin: 1em; }
+dd {
+  display:inline-block;
+  *display:inline;
+  zoom:1;
+  letter-spacing:normal;
+  word-spacing:normal;
+  vertical-align:top;
+  width:66%;
+  padding:3px 2% 4px;
+  margin:0;
+  border-top:1px solid #999;
+}
+/*
+
+/*
+ * To keep things tight
+ */
+dt {
+  margin-right:-1px;
+}
+
+dd ul { margin-left: 1.5em; }
 
 h1.title { font-size: 3em; }
 h1 { font-size: 2em; }
