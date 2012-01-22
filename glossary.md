@@ -126,3 +126,24 @@ Transferability
     transferable, because it is large and very heavy. By contrast, a
     tshirt or a computer chip has very high transferabilty.
 
+# Economic Geography
+
+Agglomeration Economies
+:   Circumstances that benefit from the spatial co-presence of different 
+    components of an economic process, where greater absolute distance would 
+    raise costs.
+
+Disagglomeration Economies
+:   Circumstances that benefit from the spatial dispersal of different 
+    components of an economic process, where greater costs associated with 
+    greater absolute distance are outweighed by lowered costs elsewhere.
+
+Divison of Labor
+:   Most simply, different people doing different work as part of an economy.
+
+International Division of Labor
+:   A spatial division of labor that spans international borders.
+
+Spatial Divison of Labor
+:   The fact that divisions of labor take place in space; that _where_ work 
+    gets done may be as significant as _who_ does that work.
