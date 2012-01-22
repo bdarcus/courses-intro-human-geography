@@ -144,6 +144,17 @@ Divison of Labor
 International Division of Labor
 :   A spatial division of labor that spans international borders.
 
+New International Division of Labor
+:   One way to describe the globalization of manufacturing economies 
+    beginning in the 1960s. This division of labor involved the movement of 
+    lower-skill manufacturing work from core to periphery and semi-periphery.
+
+Old International Division of Labor
+:   A division of labor largely associated with the era of European colonialism, 
+    where former colonies provided raw materials to core states, which in turn 
+    produced higher-value finished goods. Often colonial powers enforced these 
+    unequal trade relationships through force, or other coercion.
+
 Spatial Divison of Labor
 :   The fact that divisions of labor take place in space; that _where_ work 
     gets done may be as significant as _who_ does that work.
