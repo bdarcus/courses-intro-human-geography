@@ -141,6 +141,10 @@ Disagglomeration Economies
 Divison of Labor
 :   Most simply, different people doing different work as part of an economy.
 
+Fordism
+:   A social and economic system that involves vertically-integrated mass-production,
+    relative peace between capital and labor mediated by strong government involvement. 
+
 International Division of Labor
 :   A spatial division of labor that spans international borders.
 
@@ -155,6 +159,23 @@ Old International Division of Labor
     produced higher-value finished goods. Often colonial powers enforced these 
     unequal trade relationships through force, or other coercion.
 
+Post-Fordism
+:   A social and economic system characterized by vertically-disintegrated 
+    production, and less government engagement in the economy, and in labor 
+    rights.
+
 Spatial Divison of Labor
 :   The fact that divisions of labor take place in space; that _where_ work 
     gets done may be as significant as _who_ does that work.
+
+Vertical Integration
+:   The integration of the complete range of a production process under the 
+    direct control of a firm. The classic example is the original _Ford Motor 
+    Company_, which owned the complete range from rubber plantations, to 
+    production lines, to auto dealerships and insurance.
+
+Vertical Disintegration
+:   Where firms spin off certain segments of their production process to other 
+    firms (subcontractors). 
+
+[ford-vert-int] http://www.economist.com/node/13173671
