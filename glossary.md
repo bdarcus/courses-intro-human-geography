@@ -176,6 +176,6 @@ Vertical Integration
 
 Vertical Disintegration
 :   Where firms spin off certain segments of their production process to other 
-    firms (subcontractors). 
+    firms (subcontractors), giving more geographic and business flexibility. 
 
 [ford-vert-int] http://www.economist.com/node/13173671
