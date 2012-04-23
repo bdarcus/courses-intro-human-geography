@@ -178,4 +178,57 @@ Vertical Disintegration
 :   Where firms spin off certain segments of their production process to other 
     firms (subcontractors), giving more geographic and business flexibility. 
 
+# Political Geography
+
+Agglomeration Economies
+:   Circumstances that benefit from the spatial co-presence of different 
+    components of an economic process, where greater absolute distance would 
+    raise costs.
+
+Geopolitics
+:    The geographical relations of power among different entities;
+     typically states. May involve various practical and imaginative dimensions.
+
+Nation
+:    An "imagined community" of people that assert a common identity
+     rooted in a common historical experience, ethnicity, language,
+     and so forth.
+
+Nation-State
+:    An idealized state geographically coterminous with a nation,
+     typically without significant internal differences.
+
+Sovereignty
+:    Control or authority; in geography, refers to its territorial
+     expression. To say an entity has _absolute sovereignty_ over a
+     territory, then, is to say they have ultimate authority over that territory.
+
+State
+:    A political territorial entity with _absolute sovereignty_ over
+     clearly-defined borders.
+
+# Cultural Geography
+
+Culture
+:   A very broad and complex idea that involves aspects of identity 
+    meaning, and ways of life that constitute some unique symbolic expression.
+
+Forced Migration
+:    Migration driven by poliitcal conflict or natural disaster, where
+     people are forced to move against their will.
+
+Migration
+:    Simply put, geographical change in residence. 
+
+Pull Factor
+:    Positive haracteristics of a place that prompt migrants to consider it as
+     their destination.
+
+Push Factor
+:    Negative characteristics of a place that prompt people to
+     consider migration.
+
+Refugee
+:    Someone that is a victim of forced migration.
+
 [ford-vert-int] http://www.economist.com/node/13173671
