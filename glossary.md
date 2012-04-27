@@ -180,11 +180,6 @@ Vertical Disintegration
 
 # Political Geography
 
-Agglomeration Economies
-:   Circumstances that benefit from the spatial co-presence of different 
-    components of an economic process, where greater absolute distance would 
-    raise costs.
-
 Geopolitics
 :    The geographical relations of power among different entities;
      typically states. May involve various practical and imaginative dimensions.
@@ -231,4 +226,4 @@ Push Factor
 Refugee
 :    Someone that is a victim of forced migration.
 
-[ford-vert-int] http://www.economist.com/node/13173671
+[ford-vert-int]: http://www.economist.com/node/13173671
