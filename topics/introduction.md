@@ -72,6 +72,8 @@ we describe such locations is through _latitude_ and _longitude_.
 
 ## Diffusion
 
+## Site and Situation
+
 # Basic Geographic Arguments
 
 With these basic concepts in hand, we can begin with some basic
@@ -79,7 +81,7 @@ arguments:
 
 1. all places are connected to other places, and therefore _interact_
 with each other
-2. nevertheless, the character of interactions between places differs
+2. nevertheless, the quantity and quality of interactions between places differs
 substantially
 3. places that are closer together, and therefore separated by
 less relative distance, tend to interact more
