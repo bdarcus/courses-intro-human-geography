@@ -47,6 +47,8 @@ two sides to the contemporary geography of the world.
 
 # Basic Geographic Concepts
 
+## Location
+
 So how do geographers operationalize these concerns? Like other disciplines, 
 we use a set of concepts. Perhaps the most basic concept in geography is 
 _location_: simply and most basically _where_ something 
@@ -55,7 +57,7 @@ exists in a vaccuum, but rather takes on significance by its relation
 to what surrounds it. This gets at the distinction between _absolute
 location_ and _relative location_. Absolute location refers to an
 objective description of where something is that does not change
-depending on context; it is the same everything. The most common way
+depending on context; it is the same _everywhere_. The most common way
 we describe such locations is through _latitude_ and _longitude_.
 
 ![This is an image of an absolute location marker for an historical
@@ -63,6 +65,12 @@ we describe such locations is through _latitude_ and _longitude_.
  literally centuries. While its absolute location is certainly
  significant, its relative historical location helps explain why it is
  memorialized in the first place. Photo countesy Quinn Dombrowski](http://farm5.staticflickr.com/4151/5007446663_9f856d3937_b.jpg)
+
+## Distance
+
+## Scale
+
+## Diffusion
 
 # Basic Geographic Arguments
 
