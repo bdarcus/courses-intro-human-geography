@@ -1,4 +1,5 @@
 % Work
+% Bruce D'Arcus
 
 # Introduction
 
