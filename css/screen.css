@@ -11,7 +11,10 @@ figure {
 }
 
 figure img { width: 100%; }
-h1.title { font-size: 64pt; margin-bottom: 1.5em; font-style: italic; font-weight: bold; color: darkblue; text-align: right; line-height: 1.2;}
+h1.title { font-size: 64pt; font-style: italic; font-weight: bold; color: darkblue; text-align: right; line-height: 1.2;}
+
+header { margin-bottom: 100px; text-align: right; }
+
 h1 { margin-bottom: 0.5em;}
 ul,ol {
   margin-left:2em; 
@@ -23,3 +26,5 @@ ol { list-style: decimal; }
 
 dl dt { font-weight: bold; }
 dl dd { margin-left: 2em; }
+
+iframe { margin: 2em; }
