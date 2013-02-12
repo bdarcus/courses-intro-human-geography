@@ -11,17 +11,17 @@ Absolute Location
     measures of absolute location include latitude and longitude.
 
 Distance
-:   In general, the space between two points or locations. There are two predominant 
+:   In general, the space between two points or locations. There are two predominant
     ways to understand this notion: _Absolute Distance_  and _Relative Distance_.
 
 Location
 :   Put simply, where something is on a two-dimensional plain. There
-    are two predominant ways to understand this notion: _Absolute Location_ and 
+    are two predominant ways to understand this notion: _Absolute Location_ and
     _Relative Location_. See also _Site_ and _Situation_.
 
 Place
-:   In both the English language generally, and in human geography in particular, _place_ 
-    is a concept rich with nuance. At the most mundane, a place is just some location 
+:   In both the English language generally, and in human geography in particular, _place_
+    is a concept rich with nuance. At the most mundane, a place is just some location
     with a unique mix of characteristics. See also _Site_ and _Situation_, and _Location_.
 
 Relative Distance
@@ -43,8 +43,8 @@ Relative Location
       * my favorite restaurant is next to the gas station
 
 Scale
-:   The horizontal size of a given geographic unit, area, or process. In geography, 
-    we typically talk in scales that range from the human body, to the street or 
+:   The horizontal size of a given geographic unit, area, or process. In geography,
+    we typically talk in scales that range from the human body, to the street or
     or neightborhood, to the city or region, and on to the globe.
 
 Site
@@ -53,9 +53,9 @@ Site
     located on the coast at some _absolute location_, contain a natural
     harbor, and so forth.
 
-Situation 
+Situation
 :   A site's place in larger geographic context. For example,
-    a harbor wouldn't be much use without boats. An interior continental 
+    a harbor wouldn't be much use without boats. An interior continental
     location far from any water body might suggest intense isolation
     without planes, trains and automobiles. The idea simply suggests that
     a place's position in the world evolves based on changing technology,
@@ -63,18 +63,18 @@ Situation
 
 # Spatial Interaction
 
-Accessibility 
+Accessibility
 :   How easy it is to access a place. For example, for
     much of human history, coastal locations with good natural harbors
     provided greatly enhanced accessibilty. Conversely, a location in a
     mountainous area often greatly dmininshes accessiblity.
 
-Complementarity 
+Complementarity
 :   When considering potential interactions between
     places, complementarity refers to the fact that each much offer
     something to the other.
 
-Diffusion 
+Diffusion
 :   The spread of something (a disease, an innovation,
     information) from one _location_ to another.
 
@@ -82,7 +82,7 @@ Diffusion
     understood as the movement (often across cell walls) of a solution of
     high concentration to areas of low-concentration. The understanding in
     geography is broadly similar, but differs in two important
-    respects. First, while biology may deal with scales even smaller than 
+    respects. First, while biology may deal with scales even smaller than
     individual cells, geography typically deals with processes happening
     at much larger scales: the city, the region, the nation, the
     globe. Second, geography (certainly human geography) is typically
@@ -106,7 +106,7 @@ Hierarchical Diffusion
 Intervening Opportunity
 :   When considering the possibility of interaction between any two
     places, intervening opportunity refers to the reality that there are
-    always additional places that may offer the same benefits of 
+    always additional places that may offer the same benefits of
     interaction. An intervening opportunity, then, can change the patterns
     of connection between places.
 
@@ -119,7 +119,7 @@ Spatial Diffusion
     spreads within a dorm room, or a campus, for example).
 
 
-Transferability 
+Transferability
 :   When considering whatever it is that is transferred
     between two _locations_, transferability refers to the characteristics
     of thing been transferred. For example, a tractor is not very
@@ -129,13 +129,13 @@ Transferability
 # Economic Geography
 
 Agglomeration Economies
-:   Circumstances that benefit from the spatial co-presence of different 
-    components of an economic process, where greater absolute distance would 
+:   Circumstances that benefit from the spatial co-presence of different
+    components of an economic process, where greater absolute distance would
     raise costs.
 
 Disagglomeration Economies
-:   Circumstances that benefit from the spatial dispersal of different 
-    components of an economic process, where greater costs associated with 
+:   Circumstances that benefit from the spatial dispersal of different
+    components of an economic process, where greater costs associated with
     greater absolute distance are outweighed by lowered costs elsewhere.
 
 Divison of Labor
@@ -143,40 +143,44 @@ Divison of Labor
 
 Fordism
 :   A social and economic system that involves vertically-integrated mass-production,
-    relative peace between capital and labor mediated by strong government involvement. 
+    relative peace between capital and labor mediated by strong government involvement.
+
+Human Development Index (HDI)
+:   A composite development measure that includes health, education, and
+    standard of living (for more, see [here][hdi]).
 
 International Division of Labor
 :   A spatial division of labor that spans international borders.
 
 New International Division of Labor
-:   One way to describe the globalization of manufacturing economies 
-    beginning in the 1960s. This division of labor involved the movement of 
+:   One way to describe the globalization of manufacturing economies
+    beginning in the 1960s. This division of labor involved the movement of
     lower-skill manufacturing work from core to periphery and semi-periphery.
 
 Old International Division of Labor
-:   A division of labor largely associated with the era of European colonialism, 
-    where former colonies provided raw materials to core states, which in turn 
-    produced higher-value finished goods. Often colonial powers enforced these 
+:   A division of labor largely associated with the era of European colonialism,
+    where former colonies provided raw materials to core states, which in turn
+    produced higher-value finished goods. Often colonial powers enforced these
     unequal trade relationships through force, or other coercion.
 
 Post-Fordism
-:   A social and economic system characterized by vertically-disintegrated 
-    production, and less government engagement in the economy, and in labor 
+:   A social and economic system characterized by vertically-disintegrated
+    production, and less government engagement in the economy, and in labor
     rights.
 
 Spatial Divison of Labor
-:   The fact that divisions of labor take place in space; that _where_ work 
+:   The fact that divisions of labor take place in space; that _where_ work
     gets done may be as significant as _who_ does that work.
 
 Vertical Integration
-:   The integration of the complete range of a production process under the 
-    direct control of a firm. The classic example is the original _Ford Motor 
-    Company_, which owned the complete range from rubber plantations, to 
+:   The integration of the complete range of a production process under the
+    direct control of a firm. The classic example is the original _Ford Motor
+    Company_, which owned the complete range from rubber plantations, to
     production lines, to auto dealerships and insurance.
 
 Vertical Disintegration
-:   Where firms spin off certain segments of their production process to other 
-    firms (subcontractors), giving more geographic and business flexibility. 
+:   Where firms spin off certain segments of their production process to other
+    firms (subcontractors), giving more geographic and business flexibility.
 
 # Political Geography
 
@@ -205,7 +209,7 @@ State
 # Cultural Geography
 
 Culture
-:   A very broad and complex idea that involves aspects of identity 
+:   A very broad and complex idea that involves aspects of identity
     meaning, and ways of life that constitute some unique symbolic expression.
 
 Forced Migration
@@ -213,7 +217,7 @@ Forced Migration
      people are forced to move against their will.
 
 Migration
-:    Simply put, geographical change in residence. 
+:    Simply put, geographical change in residence.
 
 Pull Factor
 :    Positive haracteristics of a place that prompt migrants to consider it as
@@ -227,3 +231,4 @@ Refugee
 :    Someone that is a victim of forced migration.
 
 [ford-vert-int]: http://www.economist.com/node/13173671
+[hdi]: http://en.wikipedia.org/wiki/Human_Development_Index
