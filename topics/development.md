@@ -27,8 +27,8 @@ wide range of answers to these questions. But here we will focus on a
 range of common ones so we can appreciate some of the parameters of
 debates around development.
 
-Please read, and compare and contrast in your mind, the following
-three development measures:
+Please read, and compare and contrast in your mind, descriptions of
+the following three development measures:
 
 1. [Gross Domestic Product (GDP)][gdp]
 2. [Human Development Index (HDI)][hdi]
@@ -38,22 +38,15 @@ How do these measures understand development differently? How are the
 geographic patterns of these measures similar? How are they different?
 Can you find any places in the world where one of these measures may
 be relatively high, and another quite low? What factors might explain
-that anomaly?
+that inconsistency?
 
+# How Should Countries Develop?
 
-
-<iframe width="560" height="315"
-   src="http://www.youtube.com/embed/BZoKfap4g4w" frameborder="0" allowfullscreen>
-</iframe>
-
-# Additional Readings and Multimedia
-
-Development Geography entry at WikiPedia
-Hans Rosling and the Magic Washing Machine
-Where Children Sleep (read the text, and look through the images fullscreen; take a look at the captions)
-The Dumping Ground
-What Happens to All Those Superbowl T-Shirts?
-Also, take a look at the T-Shirt Travels website.
+If development experts disagree on what development is, and how we
+measure it, they also disagree on the policy measures most effective
+to improving development in particular places. How should countries
+develop in the context of an increasingly interdependent global
+economy?
 
 [washing-machines]:
 http://www.ted.com/talks/hans_rosling_and_the_magic_washing_machine.html

@@ -133,6 +133,11 @@ Agglomeration Economies
     components of an economic process, where greater absolute distance would
     raise costs.
 
+Comparative Advantage
+:   The economic principle that says countries should specialize in
+    what they do best, and trade. It might be understood as an
+    underlying basis for arguments in favor of free trade.
+
 Disagglomeration Economies
 :   Circumstances that benefit from the spatial dispersal of different
     components of an economic process, where greater costs associated with
@@ -143,14 +148,43 @@ Divison of Labor
 
 Fordism
 :   A social and economic system that involves vertically-integrated mass-production,
-    relative peace between capital and labor mediated by strong government involvement.
+    relative peace between capital and labor mediated by strong
+    government involvement.
+
+Free Market
+:   Conditions that involve minimal government in an economy, and so
+    less regulation, less taxes, less government subsidies.
+
+Free Trade
+:   Conditions where barriers to international trade are
+    minimized, and which encourages minimal or no tariffs or trade
+    quotas. See also _Comparative Advantage_.
 
 Human Development Index (HDI)
 :   A composite development measure that includes health, education, and
     standard of living (for more, see [here][hdi]).
 
+Import Substitution
+:   An economic policy with high trade barriers and strong government
+    involvement, designed to create a diverse, self-sufficient, national
+    economy. Contrast this with _comparative advantage_ and _free trade_.
+
 International Division of Labor
 :   A spatial division of labor that spans international borders.
+
+Modernization Theory
+:   A theory of development that, as promoted by Walt Rostow in the
+    1960s, argued that national economies exist along a hierarchy of
+    five "stages." Based on the historical experience of Europe, it
+    suggested specific steps governments could take (like investing in
+    infrastructure) to create the conditions for their countries' to
+    move up the hierarchy to greater levels of development.
+
+Neoliberalism
+:   An approach to development and economic policy that promotes _free
+    market_ and _free trade_, and therefore minimal government
+    involvement in economies. Generally might be understood as a
+    development approach that promotes economic globalization.
 
 New International Division of Labor
 :   One way to describe the globalization of manufacturing economies
