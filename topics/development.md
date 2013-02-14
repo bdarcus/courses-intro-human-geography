@@ -61,3 +61,4 @@ http://www.freakonomics.com/2011/02/15/what-happens-to-all-those-super-bowl-t-sh
 [ppp]: http://en.wikipedia.org/wiki/Purchasing_power_parity
 [big-mac]:
 http://www.economist.com/content/big-mac-index?fsrc=scn/gp/wl/tr/interactivebigmac
+[gem]: http://en.wikipedia.org/wiki/Gender_Empowerment_Measure
