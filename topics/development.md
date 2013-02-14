@@ -49,6 +49,14 @@ to improving development in particular places. How should countries
 develop in the context of an increasingly interdependent global
 economy?
 
+For two perspectives on these questions, read through the following:
+
+1. [Rostow's Stages of Growth][stages]
+2. [Neoliberalism][neolib]
+
+Consider, in particular, what the two approaches might suggest about
+how individual countries relate to a global economy.
+
 [washing-machines]:
 http://www.ted.com/talks/hans_rosling_and_the_magic_washing_machine.html
 [sleep]: http://lens.blogs.nytimes.com/2011/08/04/where-children-sleep/
@@ -63,3 +71,5 @@ http://www.freakonomics.com/2011/02/15/what-happens-to-all-those-super-bowl-t-sh
 [big-mac]:
 http://www.economist.com/content/big-mac-index?fsrc=scn/gp/wl/tr/interactivebigmac
 [gem]: http://en.wikipedia.org/wiki/Gender_Empowerment_Measure
+[neolib]: http://en.wikipedia.org/wiki/Neoliberalism
+[stages]: http://en.wikipedia.org/wiki/Rostovian_take-off_model

@@ -160,6 +160,10 @@ Free Trade
     minimized, and which encourages minimal or no tariffs or trade
     quotas. See also _Comparative Advantage_.
 
+Gross Domestic Product (GDP)
+:   The total market value of all goods and services produced within a
+    domestic economy.
+
 Human Development Index (HDI)
 :   A composite development measure that includes health, education, and
     standard of living (for more, see [here][hdi]).
