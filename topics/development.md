@@ -9,7 +9,8 @@ how best to enable the kind of good life that we collectively aspire
 to. And conditions of development exist in wider historical and
 geographical context. Of necessity, then, notions of development are
 highly variable, and often contentious. In part, then, we explore
-these issues in this module.
+these issues in this module; the traditional focus of
+[development geography][dev-geo].
 
 Related, if last module we examined the evolving geographic
 relationships between core (developed) and semi-peripheral (so called
