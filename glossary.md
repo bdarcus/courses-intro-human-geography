@@ -209,6 +209,11 @@ Post-Fordism
 Spatial Divison of Labor
 :   The fact that divisions of labor take place in space; that _where_ work
     gets done may be as significant as _who_ does that work.
+    
+Structural Adjustment Program (SAP)
+:   A set of conditions the World Bank and the IMF imposes on loans they give to 
+    countries. These conditions typical include a range of broadly _neoliberal_
+    policy reforms.
 
 Vertical Integration
 :   The integration of the complete range of a production process under the
