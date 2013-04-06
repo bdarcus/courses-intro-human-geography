@@ -273,5 +273,10 @@ Push Factor
 Refugee
 :    Someone that is a victim of forced migration.
 
+Transit state
+:    A state that is midpoint destination for a migrant; a stop along the way from origin 
+     to ultimate destination. Example: Morocco is a transit state for people migrating from 
+     Subsaharan Africa to Europe.
+
 [ford-vert-int]: http://www.economist.com/node/13173671
 [hdi]: http://en.wikipedia.org/wiki/Human_Development_Index
