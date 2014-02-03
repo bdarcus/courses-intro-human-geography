@@ -9,6 +9,13 @@ Absolute Distance
 Absolute Location
 :   Absolute location does not vary depending on perspective or context. Common
     measures of absolute location include latitude and longitude.
+    
+Core-Periphery Model
+:   A model that generalizes areas of the world, and their historically-evolving
+    interdependcies. This model suggests that this relationship developed out of 
+    historical-geography of colonialism, where Core colonial states in Western Europe 
+    developed political and economic power by extracing raw materials and labor from 
+    colonial Peripheral territories, and in turn dominated global trade.
 
 Distance
 :   In general, the space between two points or locations. There are two predominant
