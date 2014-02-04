@@ -10,9 +10,14 @@ Absolute Location
 :   Absolute location does not vary depending on perspective or context. Common
     measures of absolute location include latitude and longitude.
     
+Core
+:   A grouping of countries that have high standards of living and diverse economies,
+    extensive international trade, and substantial political power. Initially concentrated 
+    in Western Europe, the Core has expanded to include North America, Japan, and Australia.
+
 Core-Periphery Model
 :   A model that generalizes areas of the world, and their historically-evolving
-    interdependencies. This model suggests that this relationship developed out of 
+    interdependencies. This model argues this relationship developed out of the
     historical-geography of colonialism, where Core colonial states in Western Europe 
     developed political and economic power by extracing raw materials and labor from 
     colonial Peripheral territories, and in turn dominated global trade.
@@ -40,6 +45,11 @@ Relative Distance
 
     Note that distance here depends among other things on how fast one
     travels; the times in the examples above assume a particular average speed.
+
+Periphery
+:   A grouping of former colonial countries that have lower standards of living 
+    and simpler economies, and relatively weak political power vis-a-vis the Core. 
+    Today, the Periphery includes broad areas of Africa, Latin America, and Asia.
 
 Relative Location
 :   Relative location identifies where something is in relation to
