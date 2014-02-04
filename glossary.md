@@ -12,7 +12,7 @@ Absolute Location
     
 Core-Periphery Model
 :   A model that generalizes areas of the world, and their historically-evolving
-    interdependcies. This model suggests that this relationship developed out of 
+    interdependencies. This model suggests that this relationship developed out of 
     historical-geography of colonialism, where Core colonial states in Western Europe 
     developed political and economic power by extracing raw materials and labor from 
     colonial Peripheral territories, and in turn dominated global trade.
