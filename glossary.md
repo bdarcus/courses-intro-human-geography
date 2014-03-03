@@ -9,17 +9,17 @@ Absolute Distance
 Absolute Location
 :   Absolute location does not vary depending on perspective or context. Common
     measures of absolute location include latitude and longitude.
-    
+
 Core
 :   A grouping of countries that have high standards of living and diverse economies,
-    extensive international trade, and substantial political power. Initially concentrated 
+    extensive international trade, and substantial political power. Initially concentrated
     in Western Europe, the Core has expanded to include North America, Japan, and Australia.
 
 Core-Periphery Model
 :   A model that generalizes areas of the world, and their historically-evolving
     interdependencies. This model argues this relationship developed out of the
-    historical-geography of colonialism, where Core colonial states in Western Europe 
-    developed political and economic power by extracing raw materials and labor from 
+    historical-geography of colonialism, where Core colonial states in Western Europe
+    developed political and economic power by extracing raw materials and labor from
     colonial Peripheral territories, and in turn dominated global trade.
 
 Distance
@@ -47,8 +47,8 @@ Relative Distance
     travels; the times in the examples above assume a particular average speed.
 
 Periphery
-:   A grouping of former colonial countries that have lower standards of living 
-    and simpler economies, and relatively weak political power vis-a-vis the Core. 
+:   A grouping of former colonial countries that have lower standards of living
+    and simpler economies, and relatively weak political power vis-a-vis the Core.
     Today, the Periphery includes broad areas of Africa, Latin America, and Asia.
 
 Relative Location
@@ -81,10 +81,10 @@ Situation
 # Spatial Interaction
 
 Accessibility
-:   How easy it is to access a place. For example, for
-    much of human history, coastal locations with good natural harbors
-    provided greatly enhanced accessibilty. Conversely, a location in a
-    mountainous area often greatly dmininshes accessiblity.
+:   A characteristic of a _place_. How easy it is to access a place. For
+    example, for much of human history, coastal locations with good
+    natural harbors provided greatly enhanced accessibility. Conversely,
+    a location in a mountainous area often greatly diminishes accessibility.
 
 Complementarity
 :   When considering potential interactions between
@@ -137,11 +137,12 @@ Spatial Diffusion
 
 
 Transferability
-:   When considering whatever it is that is transferred
-    between two _locations_, transferability refers to the characteristics
-    of thing been transferred. For example, a tractor is not very
-    transferable, because it is large and very heavy. By contrast, a
-    tshirt or a computer chip has very high transferabilty.
+:   A characteristic of a _thing_. When considering whatever it is that
+    is transferred between two _locations_, transferability refers to
+    the characteristics of the thing being transferred. For example, a
+    tractor is not very transferable, because it is large and very
+    heavy. By contrast, a tshirt or a computer chip has very high
+    transferabilty.
 
 # Economic Geography
 
@@ -190,6 +191,11 @@ Import Substitution
     involvement, designed to create a diverse, self-sufficient, national
     economy. Contrast this with _comparative advantage_ and _free trade_.
 
+Informal Economy
+:   Work that is not formally counted by governments. In much of the world,
+    this involves informal selling of goods in informal markets, or on the
+    street.
+
 International Division of Labor
 :   A spatial division of labor that spans international borders.
 
@@ -226,9 +232,9 @@ Post-Fordism
 Spatial Divison of Labor
 :   The fact that divisions of labor take place in space; that _where_ work
     gets done may be as significant as _who_ does that work.
-    
+
 Structural Adjustment Program (SAP)
-:   A set of conditions the World Bank and the IMF imposes on loans they give to 
+:   A set of conditions the World Bank and the IMF imposes on loans they give to
     countries. These conditions typical include a range of broadly _neoliberal_
     policy reforms.
 
@@ -291,8 +297,8 @@ Refugee
 :    Someone that is a victim of forced migration.
 
 Transit state
-:    A state that is midpoint destination for a migrant; a stop along the way from origin 
-     to ultimate destination. Example: Morocco is a transit state for people migrating from 
+:    A state that is midpoint destination for a migrant; a stop along the way from origin
+     to ultimate destination. Example: Morocco is a transit state for people migrating from
      Subsaharan Africa to Europe.
 
 [ford-vert-int]: http://www.economist.com/node/13173671
