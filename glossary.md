@@ -286,7 +286,7 @@ Migration
 :    Simply put, geographical change in residence.
 
 Pull Factor
-:    Positive haracteristics of a place that prompt migrants to consider it as
+:    Positive characteristics of a place that prompt migrants to consider it as
      their destination.
 
 Push Factor
